@@ -5,7 +5,6 @@ module.exports = {
     proxy: 'http://localhost:8080/'
   },
   */
-  baseURL: `/api`,
   outputDir: 'target/dist',
   assetsDir: 'static'
 }
